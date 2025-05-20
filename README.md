@@ -32,8 +32,8 @@ A Streamlit-based chatbot app is built that leverages the RAG pipeline to provid
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd Assignment-GenAI
+   git clone "https://github.com/Anshul21107/Assignment-RAG"
+   cd Assignment-RAG
    ```
 
 2. Ensure you have Python 3.8 or higher installed.
